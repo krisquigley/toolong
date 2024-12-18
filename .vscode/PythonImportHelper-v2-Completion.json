@@ -1,0 +1,2126 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "version",
+        "importPath": "importlib.metadata",
+        "description": "importlib.metadata",
+        "isExtraImport": true,
+        "detail": "importlib.metadata",
+        "documentation": {}
+    },
+    {
+        "label": "version",
+        "importPath": "importlib.metadata",
+        "description": "importlib.metadata",
+        "isExtraImport": true,
+        "detail": "importlib.metadata",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "lseek",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "read",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "SEEK_CUR",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "click",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "click",
+        "description": "click",
+        "detail": "click",
+        "documentation": {}
+    },
+    {
+        "label": "UI",
+        "importPath": "toolong.ui",
+        "description": "toolong.ui",
+        "isExtraImport": true,
+        "detail": "toolong.ui",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "on",
+        "importPath": "textual",
+        "description": "textual",
+        "isExtraImport": true,
+        "detail": "textual",
+        "documentation": {}
+    },
+    {
+        "label": "on",
+        "importPath": "textual",
+        "description": "textual",
+        "isExtraImport": true,
+        "detail": "textual",
+        "documentation": {}
+    },
+    {
+        "label": "events",
+        "importPath": "textual",
+        "description": "textual",
+        "isExtraImport": true,
+        "detail": "textual",
+        "documentation": {}
+    },
+    {
+        "label": "on",
+        "importPath": "textual",
+        "description": "textual",
+        "isExtraImport": true,
+        "detail": "textual",
+        "documentation": {}
+    },
+    {
+        "label": "scrollbar",
+        "importPath": "textual",
+        "description": "textual",
+        "isExtraImport": true,
+        "detail": "textual",
+        "documentation": {}
+    },
+    {
+        "label": "work",
+        "importPath": "textual",
+        "description": "textual",
+        "isExtraImport": true,
+        "detail": "textual",
+        "documentation": {}
+    },
+    {
+        "label": "on",
+        "importPath": "textual",
+        "description": "textual",
+        "isExtraImport": true,
+        "detail": "textual",
+        "documentation": {}
+    },
+    {
+        "label": "events",
+        "importPath": "textual",
+        "description": "textual",
+        "isExtraImport": true,
+        "detail": "textual",
+        "documentation": {}
+    },
+    {
+        "label": "ComposeResult",
+        "importPath": "textual.app",
+        "description": "textual.app",
+        "isExtraImport": true,
+        "detail": "textual.app",
+        "documentation": {}
+    },
+    {
+        "label": "ComposeResult",
+        "importPath": "textual.app",
+        "description": "textual.app",
+        "isExtraImport": true,
+        "detail": "textual.app",
+        "documentation": {}
+    },
+    {
+        "label": "ComposeResult",
+        "importPath": "textual.app",
+        "description": "textual.app",
+        "isExtraImport": true,
+        "detail": "textual.app",
+        "documentation": {}
+    },
+    {
+        "label": "ComposeResult",
+        "importPath": "textual.app",
+        "description": "textual.app",
+        "isExtraImport": true,
+        "detail": "textual.app",
+        "documentation": {}
+    },
+    {
+        "label": "ComposeResult",
+        "importPath": "textual.app",
+        "description": "textual.app",
+        "isExtraImport": true,
+        "detail": "textual.app",
+        "documentation": {}
+    },
+    {
+        "label": "ComposeResult",
+        "importPath": "textual.app",
+        "description": "textual.app",
+        "isExtraImport": true,
+        "detail": "textual.app",
+        "documentation": {}
+    },
+    {
+        "label": "ComposeResult",
+        "importPath": "textual.app",
+        "description": "textual.app",
+        "isExtraImport": true,
+        "detail": "textual.app",
+        "documentation": {}
+    },
+    {
+        "label": "App",
+        "importPath": "textual.app",
+        "description": "textual.app",
+        "isExtraImport": true,
+        "detail": "textual.app",
+        "documentation": {}
+    },
+    {
+        "label": "ComposeResult",
+        "importPath": "textual.app",
+        "description": "textual.app",
+        "isExtraImport": true,
+        "detail": "textual.app",
+        "documentation": {}
+    },
+    {
+        "label": "Binding",
+        "importPath": "textual.binding",
+        "description": "textual.binding",
+        "isExtraImport": true,
+        "detail": "textual.binding",
+        "documentation": {}
+    },
+    {
+        "label": "Binding",
+        "importPath": "textual.binding",
+        "description": "textual.binding",
+        "isExtraImport": true,
+        "detail": "textual.binding",
+        "documentation": {}
+    },
+    {
+        "label": "Binding",
+        "importPath": "textual.binding",
+        "description": "textual.binding",
+        "isExtraImport": true,
+        "detail": "textual.binding",
+        "documentation": {}
+    },
+    {
+        "label": "Binding",
+        "importPath": "textual.binding",
+        "description": "textual.binding",
+        "isExtraImport": true,
+        "detail": "textual.binding",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "textual.message",
+        "description": "textual.message",
+        "isExtraImport": true,
+        "detail": "textual.message",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "textual.message",
+        "description": "textual.message",
+        "isExtraImport": true,
+        "detail": "textual.message",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "textual.message",
+        "description": "textual.message",
+        "isExtraImport": true,
+        "detail": "textual.message",
+        "documentation": {}
+    },
+    {
+        "label": "Suggester",
+        "importPath": "textual.suggester",
+        "description": "textual.suggester",
+        "isExtraImport": true,
+        "detail": "textual.suggester",
+        "documentation": {}
+    },
+    {
+        "label": "Suggester",
+        "importPath": "textual.suggester",
+        "description": "textual.suggester",
+        "isExtraImport": true,
+        "detail": "textual.suggester",
+        "documentation": {}
+    },
+    {
+        "label": "Validator",
+        "importPath": "textual.validation",
+        "description": "textual.validation",
+        "isExtraImport": true,
+        "detail": "textual.validation",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationResult",
+        "importPath": "textual.validation",
+        "description": "textual.validation",
+        "isExtraImport": true,
+        "detail": "textual.validation",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "textual.validation",
+        "description": "textual.validation",
+        "isExtraImport": true,
+        "detail": "textual.validation",
+        "documentation": {}
+    },
+    {
+        "label": "Widget",
+        "importPath": "textual.widget",
+        "description": "textual.widget",
+        "isExtraImport": true,
+        "detail": "textual.widget",
+        "documentation": {}
+    },
+    {
+        "label": "Widget",
+        "importPath": "textual.widget",
+        "description": "textual.widget",
+        "isExtraImport": true,
+        "detail": "textual.widget",
+        "documentation": {}
+    },
+    {
+        "label": "Widget",
+        "importPath": "textual.widget",
+        "description": "textual.widget",
+        "isExtraImport": true,
+        "detail": "textual.widget",
+        "documentation": {}
+    },
+    {
+        "label": "Input",
+        "importPath": "textual.widgets",
+        "description": "textual.widgets",
+        "isExtraImport": true,
+        "detail": "textual.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "Checkbox",
+        "importPath": "textual.widgets",
+        "description": "textual.widgets",
+        "isExtraImport": true,
+        "detail": "textual.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "Input",
+        "importPath": "textual.widgets",
+        "description": "textual.widgets",
+        "isExtraImport": true,
+        "detail": "textual.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "Label",
+        "importPath": "textual.widgets",
+        "description": "textual.widgets",
+        "isExtraImport": true,
+        "detail": "textual.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "Static",
+        "importPath": "textual.widgets",
+        "description": "textual.widgets",
+        "isExtraImport": true,
+        "detail": "textual.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "Markdown",
+        "importPath": "textual.widgets",
+        "description": "textual.widgets",
+        "isExtraImport": true,
+        "detail": "textual.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "Footer",
+        "importPath": "textual.widgets",
+        "description": "textual.widgets",
+        "isExtraImport": true,
+        "detail": "textual.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "Label",
+        "importPath": "textual.widgets",
+        "description": "textual.widgets",
+        "isExtraImport": true,
+        "detail": "textual.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "Static",
+        "importPath": "textual.widgets",
+        "description": "textual.widgets",
+        "isExtraImport": true,
+        "detail": "textual.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "TextArea",
+        "importPath": "textual.widgets",
+        "description": "textual.widgets",
+        "isExtraImport": true,
+        "detail": "textual.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "Label",
+        "importPath": "textual.widgets",
+        "description": "textual.widgets",
+        "isExtraImport": true,
+        "detail": "textual.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "Label",
+        "importPath": "textual.widgets",
+        "description": "textual.widgets",
+        "isExtraImport": true,
+        "detail": "textual.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "ProgressBar",
+        "importPath": "textual.widgets",
+        "description": "textual.widgets",
+        "isExtraImport": true,
+        "detail": "textual.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "TabbedContent",
+        "importPath": "textual.widgets",
+        "description": "textual.widgets",
+        "isExtraImport": true,
+        "detail": "textual.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "TabPane",
+        "importPath": "textual.widgets",
+        "description": "textual.widgets",
+        "isExtraImport": true,
+        "detail": "textual.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "TypeAlias",
+        "importPath": "typing_extensions",
+        "description": "typing_extensions",
+        "isExtraImport": true,
+        "detail": "typing_extensions",
+        "documentation": {}
+    },
+    {
+        "label": "JSONHighlighter",
+        "importPath": "rich.highlighter",
+        "description": "rich.highlighter",
+        "isExtraImport": true,
+        "detail": "rich.highlighter",
+        "documentation": {}
+    },
+    {
+        "label": "RegexHighlighter",
+        "importPath": "rich.highlighter",
+        "description": "rich.highlighter",
+        "isExtraImport": true,
+        "detail": "rich.highlighter",
+        "documentation": {}
+    },
+    {
+        "label": "rich.repr",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "rich.repr",
+        "description": "rich.repr",
+        "detail": "rich.repr",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "rich.text",
+        "description": "rich.text",
+        "isExtraImport": true,
+        "detail": "rich.text",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "rich.text",
+        "description": "rich.text",
+        "isExtraImport": true,
+        "detail": "rich.text",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "rich.text",
+        "description": "rich.text",
+        "isExtraImport": true,
+        "detail": "rich.text",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "rich.text",
+        "description": "rich.text",
+        "isExtraImport": true,
+        "detail": "rich.text",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "rich.text",
+        "description": "rich.text",
+        "isExtraImport": true,
+        "detail": "rich.text",
+        "documentation": {}
+    },
+    {
+        "label": "LogHighlighter",
+        "importPath": "toolong.highlighter",
+        "description": "toolong.highlighter",
+        "isExtraImport": true,
+        "detail": "toolong.highlighter",
+        "documentation": {}
+    },
+    {
+        "label": "timestamps",
+        "importPath": "toolong",
+        "description": "toolong",
+        "isExtraImport": true,
+        "detail": "toolong",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "IO",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Mapping",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "NamedTuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "ModalScreen",
+        "importPath": "textual.screen",
+        "description": "textual.screen",
+        "isExtraImport": true,
+        "detail": "textual.screen",
+        "documentation": {}
+    },
+    {
+        "label": "ModalScreen",
+        "importPath": "textual.screen",
+        "description": "textual.screen",
+        "isExtraImport": true,
+        "detail": "textual.screen",
+        "documentation": {}
+    },
+    {
+        "label": "Screen",
+        "importPath": "textual.screen",
+        "description": "textual.screen",
+        "isExtraImport": true,
+        "detail": "textual.screen",
+        "documentation": {}
+    },
+    {
+        "label": "Horizontal",
+        "importPath": "textual.containers",
+        "description": "textual.containers",
+        "isExtraImport": true,
+        "detail": "textual.containers",
+        "documentation": {}
+    },
+    {
+        "label": "Center",
+        "importPath": "textual.containers",
+        "description": "textual.containers",
+        "isExtraImport": true,
+        "detail": "textual.containers",
+        "documentation": {}
+    },
+    {
+        "label": "VerticalScroll",
+        "importPath": "textual.containers",
+        "description": "textual.containers",
+        "isExtraImport": true,
+        "detail": "textual.containers",
+        "documentation": {}
+    },
+    {
+        "label": "ScrollableContainer",
+        "importPath": "textual.containers",
+        "description": "textual.containers",
+        "isExtraImport": true,
+        "detail": "textual.containers",
+        "documentation": {}
+    },
+    {
+        "label": "Horizontal",
+        "importPath": "textual.containers",
+        "description": "textual.containers",
+        "isExtraImport": true,
+        "detail": "textual.containers",
+        "documentation": {}
+    },
+    {
+        "label": "Center",
+        "importPath": "textual.containers",
+        "description": "textual.containers",
+        "isExtraImport": true,
+        "detail": "textual.containers",
+        "documentation": {}
+    },
+    {
+        "label": "Vertical",
+        "importPath": "textual.containers",
+        "description": "textual.containers",
+        "isExtraImport": true,
+        "detail": "textual.containers",
+        "documentation": {}
+    },
+    {
+        "label": "webbrowser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "webbrowser",
+        "description": "webbrowser",
+        "detail": "webbrowser",
+        "documentation": {}
+    },
+    {
+        "label": "JSON",
+        "importPath": "rich.json",
+        "description": "rich.json",
+        "isExtraImport": true,
+        "detail": "rich.json",
+        "documentation": {}
+    },
+    {
+        "label": "TextAreaTheme",
+        "importPath": "textual.widgets.text_area",
+        "description": "textual.widgets.text_area",
+        "isExtraImport": true,
+        "detail": "textual.widgets.text_area",
+        "documentation": {}
+    },
+    {
+        "label": "mmap",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mmap",
+        "description": "mmap",
+        "detail": "mmap",
+        "documentation": {}
+    },
+    {
+        "label": "mimetypes",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mimetypes",
+        "description": "mimetypes",
+        "detail": "mimetypes",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "platform",
+        "description": "platform",
+        "detail": "platform",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Lock",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "RLock",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Lock",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "FormatParser",
+        "importPath": "toolong.format_parser",
+        "description": "toolong.format_parser",
+        "isExtraImport": true,
+        "detail": "toolong.format_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ParseResult",
+        "importPath": "toolong.format_parser",
+        "description": "toolong.format_parser",
+        "isExtraImport": true,
+        "detail": "toolong.format_parser",
+        "documentation": {}
+    },
+    {
+        "label": "TimestampScanner",
+        "importPath": "toolong.timestamps",
+        "description": "toolong.timestamps",
+        "isExtraImport": true,
+        "detail": "toolong.timestamps",
+        "documentation": {}
+    },
+    {
+        "label": "Empty",
+        "importPath": "queue",
+        "description": "queue",
+        "isExtraImport": true,
+        "detail": "queue",
+        "documentation": {}
+    },
+    {
+        "label": "Queue",
+        "importPath": "queue",
+        "description": "queue",
+        "isExtraImport": true,
+        "detail": "queue",
+        "documentation": {}
+    },
+    {
+        "label": "itemgetter",
+        "importPath": "operator",
+        "description": "operator",
+        "isExtraImport": true,
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "ScanProgressBar",
+        "importPath": "toolong.scan_progress_bar",
+        "description": "toolong.scan_progress_bar",
+        "isExtraImport": true,
+        "detail": "toolong.scan_progress_bar",
+        "documentation": {}
+    },
+    {
+        "label": "ScanProgressBar",
+        "importPath": "toolong.scan_progress_bar",
+        "description": "toolong.scan_progress_bar",
+        "isExtraImport": true,
+        "detail": "toolong.scan_progress_bar",
+        "documentation": {}
+    },
+    {
+        "label": "FindDialog",
+        "importPath": "toolong.find_dialog",
+        "description": "toolong.find_dialog",
+        "isExtraImport": true,
+        "detail": "toolong.find_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "FindDialog",
+        "importPath": "toolong.find_dialog",
+        "description": "toolong.find_dialog",
+        "isExtraImport": true,
+        "detail": "toolong.find_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "LogFile",
+        "importPath": "toolong.log_file",
+        "description": "toolong.log_file",
+        "isExtraImport": true,
+        "detail": "toolong.log_file",
+        "documentation": {}
+    },
+    {
+        "label": "LogFile",
+        "importPath": "toolong.log_file",
+        "description": "toolong.log_file",
+        "isExtraImport": true,
+        "detail": "toolong.log_file",
+        "documentation": {}
+    },
+    {
+        "label": "LogFile",
+        "importPath": "toolong.log_file",
+        "description": "toolong.log_file",
+        "isExtraImport": true,
+        "detail": "toolong.log_file",
+        "documentation": {}
+    },
+    {
+        "label": "DismissOverlay",
+        "importPath": "toolong.messages",
+        "description": "toolong.messages",
+        "isExtraImport": true,
+        "detail": "toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "FileError",
+        "importPath": "toolong.messages",
+        "description": "toolong.messages",
+        "isExtraImport": true,
+        "detail": "toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "NewBreaks",
+        "importPath": "toolong.messages",
+        "description": "toolong.messages",
+        "isExtraImport": true,
+        "detail": "toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "PendingLines",
+        "importPath": "toolong.messages",
+        "description": "toolong.messages",
+        "isExtraImport": true,
+        "detail": "toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "PointerMoved",
+        "importPath": "toolong.messages",
+        "description": "toolong.messages",
+        "isExtraImport": true,
+        "detail": "toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "ScanComplete",
+        "importPath": "toolong.messages",
+        "description": "toolong.messages",
+        "isExtraImport": true,
+        "detail": "toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "ScanProgress",
+        "importPath": "toolong.messages",
+        "description": "toolong.messages",
+        "isExtraImport": true,
+        "detail": "toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "TailFile",
+        "importPath": "toolong.messages",
+        "description": "toolong.messages",
+        "isExtraImport": true,
+        "detail": "toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "DismissOverlay",
+        "importPath": "toolong.messages",
+        "description": "toolong.messages",
+        "isExtraImport": true,
+        "detail": "toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "Goto",
+        "importPath": "toolong.messages",
+        "description": "toolong.messages",
+        "isExtraImport": true,
+        "detail": "toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "PendingLines",
+        "importPath": "toolong.messages",
+        "description": "toolong.messages",
+        "isExtraImport": true,
+        "detail": "toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "PointerMoved",
+        "importPath": "toolong.messages",
+        "description": "toolong.messages",
+        "isExtraImport": true,
+        "detail": "toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "ScanComplete",
+        "importPath": "toolong.messages",
+        "description": "toolong.messages",
+        "isExtraImport": true,
+        "detail": "toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "ScanProgress",
+        "importPath": "toolong.messages",
+        "description": "toolong.messages",
+        "isExtraImport": true,
+        "detail": "toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "TailFile",
+        "importPath": "toolong.messages",
+        "description": "toolong.messages",
+        "isExtraImport": true,
+        "detail": "toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "WatcherBase",
+        "importPath": "toolong.watcher",
+        "description": "toolong.watcher",
+        "isExtraImport": true,
+        "detail": "toolong.watcher",
+        "documentation": {}
+    },
+    {
+        "label": "WatcherBase",
+        "importPath": "toolong.watcher",
+        "description": "toolong.watcher",
+        "isExtraImport": true,
+        "detail": "toolong.watcher",
+        "documentation": {}
+    },
+    {
+        "label": "WatcherBase",
+        "importPath": "toolong.watcher",
+        "description": "toolong.watcher",
+        "isExtraImport": true,
+        "detail": "toolong.watcher",
+        "documentation": {}
+    },
+    {
+        "label": "WatcherBase",
+        "importPath": "toolong.watcher",
+        "description": "toolong.watcher",
+        "isExtraImport": true,
+        "detail": "toolong.watcher",
+        "documentation": {}
+    },
+    {
+        "label": "WatchedFile",
+        "importPath": "toolong.watcher",
+        "description": "toolong.watcher",
+        "isExtraImport": true,
+        "detail": "toolong.watcher",
+        "documentation": {}
+    },
+    {
+        "label": "get_watcher",
+        "importPath": "toolong.watcher",
+        "description": "toolong.watcher",
+        "isExtraImport": true,
+        "detail": "toolong.watcher",
+        "documentation": {}
+    },
+    {
+        "label": "Segment",
+        "importPath": "rich.segment",
+        "description": "rich.segment",
+        "isExtraImport": true,
+        "detail": "rich.segment",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "rich.style",
+        "description": "rich.style",
+        "isExtraImport": true,
+        "detail": "rich.style",
+        "documentation": {}
+    },
+    {
+        "label": "LRUCache",
+        "importPath": "textual.cache",
+        "description": "textual.cache",
+        "isExtraImport": true,
+        "detail": "textual.cache",
+        "documentation": {}
+    },
+    {
+        "label": "Region",
+        "importPath": "textual.geometry",
+        "description": "textual.geometry",
+        "isExtraImport": true,
+        "detail": "textual.geometry",
+        "documentation": {}
+    },
+    {
+        "label": "Size",
+        "importPath": "textual.geometry",
+        "description": "textual.geometry",
+        "isExtraImport": true,
+        "detail": "textual.geometry",
+        "documentation": {}
+    },
+    {
+        "label": "clamp",
+        "importPath": "textual.geometry",
+        "description": "textual.geometry",
+        "isExtraImport": true,
+        "detail": "textual.geometry",
+        "documentation": {}
+    },
+    {
+        "label": "reactive",
+        "importPath": "textual.reactive",
+        "description": "textual.reactive",
+        "isExtraImport": true,
+        "detail": "textual.reactive",
+        "documentation": {}
+    },
+    {
+        "label": "reactive",
+        "importPath": "textual.reactive",
+        "description": "textual.reactive",
+        "isExtraImport": true,
+        "detail": "textual.reactive",
+        "documentation": {}
+    },
+    {
+        "label": "reactive",
+        "importPath": "textual.reactive",
+        "description": "textual.reactive",
+        "isExtraImport": true,
+        "detail": "textual.reactive",
+        "documentation": {}
+    },
+    {
+        "label": "ScrollView",
+        "importPath": "textual.scroll_view",
+        "description": "textual.scroll_view",
+        "isExtraImport": true,
+        "detail": "textual.scroll_view",
+        "documentation": {}
+    },
+    {
+        "label": "Strip",
+        "importPath": "textual.strip",
+        "description": "textual.strip",
+        "isExtraImport": true,
+        "detail": "textual.strip",
+        "documentation": {}
+    },
+    {
+        "label": "Worker",
+        "importPath": "textual.worker",
+        "description": "textual.worker",
+        "isExtraImport": true,
+        "detail": "textual.worker",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_worker",
+        "importPath": "textual.worker",
+        "description": "textual.worker",
+        "isExtraImport": true,
+        "detail": "textual.worker",
+        "documentation": {}
+    },
+    {
+        "label": "Lock",
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "isExtraImport": true,
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "NoScreen",
+        "importPath": "textual.dom",
+        "description": "textual.dom",
+        "isExtraImport": true,
+        "detail": "textual.dom",
+        "documentation": {}
+    },
+    {
+        "label": "LinePanel",
+        "importPath": "toolong.line_panel",
+        "description": "toolong.line_panel",
+        "isExtraImport": true,
+        "detail": "toolong.line_panel",
+        "documentation": {}
+    },
+    {
+        "label": "LogLines",
+        "importPath": "toolong.log_lines",
+        "description": "toolong.log_lines",
+        "isExtraImport": true,
+        "detail": "toolong.log_lines",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultSelector",
+        "importPath": "selectors",
+        "description": "selectors",
+        "isExtraImport": true,
+        "detail": "selectors",
+        "documentation": {}
+    },
+    {
+        "label": "EVENT_READ",
+        "importPath": "selectors",
+        "description": "selectors",
+        "isExtraImport": true,
+        "detail": "selectors",
+        "documentation": {}
+    },
+    {
+        "label": "locale",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "locale",
+        "description": "locale",
+        "detail": "locale",
+        "documentation": {}
+    },
+    {
+        "label": "terminal_theme",
+        "importPath": "rich",
+        "description": "rich",
+        "isExtraImport": true,
+        "detail": "rich",
+        "documentation": {}
+    },
+    {
+        "label": "Lazy",
+        "importPath": "textual.lazy",
+        "description": "textual.lazy",
+        "isExtraImport": true,
+        "detail": "textual.lazy",
+        "documentation": {}
+    },
+    {
+        "label": "LogView",
+        "importPath": "toolong.log_view",
+        "description": "toolong.log_view",
+        "isExtraImport": true,
+        "detail": "toolong.log_view",
+        "documentation": {}
+    },
+    {
+        "label": "HelpScreen",
+        "importPath": "toolong.help",
+        "description": "toolong.help",
+        "isExtraImport": true,
+        "detail": "toolong.help",
+        "documentation": {}
+    },
+    {
+        "label": "total_ordering",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "src.toolong.cli",
+        "description": "src.toolong.cli",
+        "peekOfCode": "def run(files: list[str], merge: bool, output_merge: str) -> None:\n    \"\"\"View / tail / search log files.\"\"\"\n    import sys\n    stdin_tty = sys.__stdin__.isatty()\n    if not files and stdin_tty:\n        ctx = click.get_current_context()\n        click.echo(ctx.get_help())\n        ctx.exit()\n    if stdin_tty:\n        try:",
+        "detail": "src.toolong.cli",
+        "documentation": {}
+    },
+    {
+        "label": "Regex",
+        "kind": 6,
+        "importPath": "src.toolong.find_dialog",
+        "description": "src.toolong.find_dialog",
+        "peekOfCode": "class Regex(Validator):\n    def validate(self, value: str) -> ValidationResult:\n        \"\"\"Check a string is equal to its reverse.\"\"\"\n        try:\n            re.compile(value)\n        except Exception:\n            return self.failure(\"Invalid regex\")\n        else:\n            return self.success()\nclass FindDialog(Widget, can_focus_children=True):",
+        "detail": "src.toolong.find_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "FindDialog",
+        "kind": 6,
+        "importPath": "src.toolong.find_dialog",
+        "description": "src.toolong.find_dialog",
+        "peekOfCode": "class FindDialog(Widget, can_focus_children=True):\n    DEFAULT_CSS = \"\"\"\n    FindDialog {\n        layout: horizontal;\n        dock: top; \n        padding-top: 1;                       \n        width: 1fr;\n        height: auto;\n        max-height: 70%;\n        display: none;",
+        "detail": "src.toolong.find_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "LogFormat",
+        "kind": 6,
+        "importPath": "src.toolong.format_parser",
+        "description": "src.toolong.format_parser",
+        "peekOfCode": "class LogFormat:\n    def parse(self, line: str) -> ParseResult | None:\n        raise NotImplementedError()\nHTTP_GROUPS = {\n    \"1\": \"cyan\",\n    \"2\": \"green\",\n    \"3\": \"yellow\",\n    \"4\": \"red\",\n    \"5\": \"reverse red\",\n}",
+        "detail": "src.toolong.format_parser",
+        "documentation": {}
+    },
+    {
+        "label": "RegexLogFormat",
+        "kind": 6,
+        "importPath": "src.toolong.format_parser",
+        "description": "src.toolong.format_parser",
+        "peekOfCode": "class RegexLogFormat(LogFormat):\n    REGEX = re.compile(\".*?\")\n    HIGHLIGHT_WORDS = [\n        \"GET\",\n        \"POST\",\n        \"PUT\",\n        \"HEAD\",\n        \"POST\",\n        \"DELETE\",\n        \"OPTIONS\",",
+        "detail": "src.toolong.format_parser",
+        "documentation": {}
+    },
+    {
+        "label": "CommonLogFormat",
+        "kind": 6,
+        "importPath": "src.toolong.format_parser",
+        "description": "src.toolong.format_parser",
+        "peekOfCode": "class CommonLogFormat(RegexLogFormat):\n    REGEX = re.compile(\n        r'(?P<ip>.*?) (?P<remote_log_name>.*?) (?P<userid>.*?) (?P<date>\\[.*?(?= ).*?\\]) \"(?P<request_method>.*?) (?P<path>.*?)(?P<request_version> HTTP\\/.*)?\" (?P<status>.*?) (?P<length>.*?) \"(?P<referrer>.*?)\"'\n    )\nclass CombinedLogFormat(RegexLogFormat):\n    REGEX = re.compile(\n        r'(?P<ip>.*?) (?P<remote_log_name>.*?) (?P<userid>.*?) \\[(?P<date>.*?)(?= ) (?P<timezone>.*?)\\] \"(?P<request_method>.*?) (?P<path>.*?)(?P<request_version> HTTP\\/.*)?\" (?P<status>.*?) (?P<length>.*?) \"(?P<referrer>.*?)\" \"(?P<user_agent>.*?)\" (?P<session_id>.*?) (?P<generation_time_micro>.*?) (?P<virtual_host>.*)'\n    )\nclass DefaultLogFormat(LogFormat):\n    highlighter = LogHighlighter()",
+        "detail": "src.toolong.format_parser",
+        "documentation": {}
+    },
+    {
+        "label": "CombinedLogFormat",
+        "kind": 6,
+        "importPath": "src.toolong.format_parser",
+        "description": "src.toolong.format_parser",
+        "peekOfCode": "class CombinedLogFormat(RegexLogFormat):\n    REGEX = re.compile(\n        r'(?P<ip>.*?) (?P<remote_log_name>.*?) (?P<userid>.*?) \\[(?P<date>.*?)(?= ) (?P<timezone>.*?)\\] \"(?P<request_method>.*?) (?P<path>.*?)(?P<request_version> HTTP\\/.*)?\" (?P<status>.*?) (?P<length>.*?) \"(?P<referrer>.*?)\" \"(?P<user_agent>.*?)\" (?P<session_id>.*?) (?P<generation_time_micro>.*?) (?P<virtual_host>.*)'\n    )\nclass DefaultLogFormat(LogFormat):\n    highlighter = LogHighlighter()\n    def parse(self, line: str) -> ParseResult | None:\n        text = Text.from_ansi(line)\n        if not text.spans:\n            text = self.highlighter(text)",
+        "detail": "src.toolong.format_parser",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultLogFormat",
+        "kind": 6,
+        "importPath": "src.toolong.format_parser",
+        "description": "src.toolong.format_parser",
+        "peekOfCode": "class DefaultLogFormat(LogFormat):\n    highlighter = LogHighlighter()\n    def parse(self, line: str) -> ParseResult | None:\n        text = Text.from_ansi(line)\n        if not text.spans:\n            text = self.highlighter(text)\n        return None, line, text\nclass JSONLogFormat(LogFormat):\n    highlighter = JSONHighlighter()\n    def parse(self, line: str) -> ParseResult | None:",
+        "detail": "src.toolong.format_parser",
+        "documentation": {}
+    },
+    {
+        "label": "JSONLogFormat",
+        "kind": 6,
+        "importPath": "src.toolong.format_parser",
+        "description": "src.toolong.format_parser",
+        "peekOfCode": "class JSONLogFormat(LogFormat):\n    highlighter = JSONHighlighter()\n    def parse(self, line: str) -> ParseResult | None:\n        line = line.strip()\n        if not line:\n            return None\n        try:\n            json.loads(line)\n        except Exception:\n            return None",
+        "detail": "src.toolong.format_parser",
+        "documentation": {}
+    },
+    {
+        "label": "FormatParser",
+        "kind": 6,
+        "importPath": "src.toolong.format_parser",
+        "description": "src.toolong.format_parser",
+        "peekOfCode": "class FormatParser:\n    \"\"\"Parses a log line.\"\"\"\n    def __init__(self) -> None:\n        self._formats = FORMATS.copy()\n    def parse(self, line: str) -> ParseResult:\n        \"\"\"Parse a line.\"\"\"\n        if len(line) > 10_000:\n            line = line[:10_000]\n        if line.strip():\n            for index, format in enumerate(self._formats):",
+        "detail": "src.toolong.format_parser",
+        "documentation": {}
+    },
+    {
+        "label": "HTTP_GROUPS",
+        "kind": 5,
+        "importPath": "src.toolong.format_parser",
+        "description": "src.toolong.format_parser",
+        "peekOfCode": "HTTP_GROUPS = {\n    \"1\": \"cyan\",\n    \"2\": \"green\",\n    \"3\": \"yellow\",\n    \"4\": \"red\",\n    \"5\": \"reverse red\",\n}\nclass RegexLogFormat(LogFormat):\n    REGEX = re.compile(\".*?\")\n    HIGHLIGHT_WORDS = [",
+        "detail": "src.toolong.format_parser",
+        "documentation": {}
+    },
+    {
+        "label": "FORMATS",
+        "kind": 5,
+        "importPath": "src.toolong.format_parser",
+        "description": "src.toolong.format_parser",
+        "peekOfCode": "FORMATS = [\n    JSONLogFormat(),\n    CommonLogFormat(),\n    CombinedLogFormat(),\n    # DefaultLogFormat(),\n]\ndefault_log_format = DefaultLogFormat()\nclass FormatParser:\n    \"\"\"Parses a log line.\"\"\"\n    def __init__(self) -> None:",
+        "detail": "src.toolong.format_parser",
+        "documentation": {}
+    },
+    {
+        "label": "default_log_format",
+        "kind": 5,
+        "importPath": "src.toolong.format_parser",
+        "description": "src.toolong.format_parser",
+        "peekOfCode": "default_log_format = DefaultLogFormat()\nclass FormatParser:\n    \"\"\"Parses a log line.\"\"\"\n    def __init__(self) -> None:\n        self._formats = FORMATS.copy()\n    def parse(self, line: str) -> ParseResult:\n        \"\"\"Parse a line.\"\"\"\n        if len(line) > 10_000:\n            line = line[:10_000]\n        if line.strip():",
+        "detail": "src.toolong.format_parser",
+        "documentation": {}
+    },
+    {
+        "label": "GotoScreen",
+        "kind": 6,
+        "importPath": "src.toolong.goto_screen",
+        "description": "src.toolong.goto_screen",
+        "peekOfCode": "class GotoScreen(ModalScreen):\n    BINDINGS = [(\"escape\", \"dismiss\")]\n    DEFAULT_CSS = \"\"\"\n    GotoScreen {\n        background: black 20%;\n        align: right bottom;\n        #goto {\n            width: auto;\n            height: auto;\n            margin: 3 3;",
+        "detail": "src.toolong.goto_screen",
+        "documentation": {}
+    },
+    {
+        "label": "HelpScreen",
+        "kind": 6,
+        "importPath": "src.toolong.help",
+        "description": "src.toolong.help",
+        "peekOfCode": "class HelpScreen(ModalScreen):\n    \"\"\"Simple Help screen with Markdown and a few links.\"\"\"\n    CSS = \"\"\"\n    HelpScreen VerticalScroll {\n        background: $surface;\n        margin: 4 8;        \n        border: heavy $accent;        \n        height: 1fr;        \n        .title {\n            width: auto;",
+        "detail": "src.toolong.help",
+        "documentation": {}
+    },
+    {
+        "label": "get_title",
+        "kind": 2,
+        "importPath": "src.toolong.help",
+        "description": "src.toolong.help",
+        "peekOfCode": "def get_title() -> Text:\n    \"\"\"Get the title, with a rainbow effect.\"\"\"\n    lines = TITLE.splitlines(keepends=True)\n    return Text.assemble(*zip(lines, COLORS))\nclass HelpScreen(ModalScreen):\n    \"\"\"Simple Help screen with Markdown and a few links.\"\"\"\n    CSS = \"\"\"\n    HelpScreen VerticalScroll {\n        background: $surface;\n        margin: 4 8;        ",
+        "detail": "src.toolong.help",
+        "documentation": {}
+    },
+    {
+        "label": "TEXTUAL_LINK",
+        "kind": 5,
+        "importPath": "src.toolong.help",
+        "description": "src.toolong.help",
+        "peekOfCode": "TEXTUAL_LINK = \"https://www.textualize.io/\"\nREPOSITORY_LINK = \"https://github.com/Textualize/toolong\"\nLOGMERGER_LINK = \"https://github.com/ptmcg/logmerger\"\nHELP_MD = \"\"\"\nTooLong is a log file viewer / navigator for the terminal.\nBuilt with [Textual](https://www.textualize.io/)\nRepository: [https://github.com/Textualize/toolong](https://github.com/Textualize/toolong) Author: [Will McGugan](https://www.willmcgugan.com)\n---\n### Navigation\n- `tab` / `shift+tab` to navigate between widgets.",
+        "detail": "src.toolong.help",
+        "documentation": {}
+    },
+    {
+        "label": "REPOSITORY_LINK",
+        "kind": 5,
+        "importPath": "src.toolong.help",
+        "description": "src.toolong.help",
+        "peekOfCode": "REPOSITORY_LINK = \"https://github.com/Textualize/toolong\"\nLOGMERGER_LINK = \"https://github.com/ptmcg/logmerger\"\nHELP_MD = \"\"\"\nTooLong is a log file viewer / navigator for the terminal.\nBuilt with [Textual](https://www.textualize.io/)\nRepository: [https://github.com/Textualize/toolong](https://github.com/Textualize/toolong) Author: [Will McGugan](https://www.willmcgugan.com)\n---\n### Navigation\n- `tab` / `shift+tab` to navigate between widgets.\n- `home` or `G` / `end` or `g` Jump to start or end of file. Press `end` a second time to *tail* the current file.",
+        "detail": "src.toolong.help",
+        "documentation": {}
+    },
+    {
+        "label": "LOGMERGER_LINK",
+        "kind": 5,
+        "importPath": "src.toolong.help",
+        "description": "src.toolong.help",
+        "peekOfCode": "LOGMERGER_LINK = \"https://github.com/ptmcg/logmerger\"\nHELP_MD = \"\"\"\nTooLong is a log file viewer / navigator for the terminal.\nBuilt with [Textual](https://www.textualize.io/)\nRepository: [https://github.com/Textualize/toolong](https://github.com/Textualize/toolong) Author: [Will McGugan](https://www.willmcgugan.com)\n---\n### Navigation\n- `tab` / `shift+tab` to navigate between widgets.\n- `home` or `G` / `end` or `g` Jump to start or end of file. Press `end` a second time to *tail* the current file.\n- `page up` / `page down` or `space` to go to the next / previous page.",
+        "detail": "src.toolong.help",
+        "documentation": {}
+    },
+    {
+        "label": "HELP_MD",
+        "kind": 5,
+        "importPath": "src.toolong.help",
+        "description": "src.toolong.help",
+        "peekOfCode": "HELP_MD = \"\"\"\nTooLong is a log file viewer / navigator for the terminal.\nBuilt with [Textual](https://www.textualize.io/)\nRepository: [https://github.com/Textualize/toolong](https://github.com/Textualize/toolong) Author: [Will McGugan](https://www.willmcgugan.com)\n---\n### Navigation\n- `tab` / `shift+tab` to navigate between widgets.\n- `home` or `G` / `end` or `g` Jump to start or end of file. Press `end` a second time to *tail* the current file.\n- `page up` / `page down` or `space` to go to the next / previous page.\n- `←` or `h` / `→` or `l` Scroll left / right.",
+        "detail": "src.toolong.help",
+        "documentation": {}
+    },
+    {
+        "label": "TITLE",
+        "kind": 5,
+        "importPath": "src.toolong.help",
+        "description": "src.toolong.help",
+        "peekOfCode": "TITLE = rf\"\"\"\n _______          _                       \n|__   __|        | |    Built with Textual\n   | | ___   ___ | |     ___  _ __   __ _ \n   | |/ _ \\ / _ \\| |    / _ \\| '_ \\ / _` |\n   | | (_) | (_) | |___| (_) | | | | (_| |\n   |_|\\___/ \\___/|______\\___/|_| |_|\\__, |\n                                     __/ |\n   Moving at Terminal velocity      |___/  v{version('toolong')}\n\"\"\"",
+        "detail": "src.toolong.help",
+        "documentation": {}
+    },
+    {
+        "label": "COLORS",
+        "kind": 5,
+        "importPath": "src.toolong.help",
+        "description": "src.toolong.help",
+        "peekOfCode": "COLORS = [\n    \"#881177\",\n    \"#aa3355\",\n    \"#cc6666\",\n    \"#ee9944\",\n    \"#eedd00\",\n    \"#99dd55\",\n    \"#44dd88\",\n    \"#22ccbb\",\n    \"#00bbcc\",",
+        "detail": "src.toolong.help",
+        "documentation": {}
+    },
+    {
+        "label": "LogHighlighter",
+        "kind": 6,
+        "importPath": "src.toolong.highlighter",
+        "description": "src.toolong.highlighter",
+        "peekOfCode": "class LogHighlighter(RegexHighlighter):\n    \"\"\"Highlights the text typically produced from ``__repr__`` methods.\"\"\"\n    base_style = \"repr.\"\n    highlights = [\n        _combine_regex(\n            r\"(?P<ipv4>[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3})\",\n            r\"(?P<ipv6>([A-Fa-f0-9]{1,4}::?){1,7}[A-Fa-f0-9]{1,4})\",\n            r\"(?P<eui64>(?:[0-9A-Fa-f]{1,2}-){7}[0-9A-Fa-f]{1,2}|(?:[0-9A-Fa-f]{1,2}:){7}[0-9A-Fa-f]{1,2}|(?:[0-9A-Fa-f]{4}\\.){3}[0-9A-Fa-f]{4})\",\n            r\"(?P<eui48>(?:[0-9A-Fa-f]{1,2}-){5}[0-9A-Fa-f]{1,2}|(?:[0-9A-Fa-f]{1,2}:){5}[0-9A-Fa-f]{1,2}|(?:[0-9A-Fa-f]{4}\\.){2}[0-9A-Fa-f]{4})\",\n            r\"(?P<uuid>[a-fA-F0-9]{8}-[a-fA-F0-9]{4}-[a-fA-F0-9]{4}-[a-fA-F0-9]{4}-[a-fA-F0-9]{12})\",",
+        "detail": "src.toolong.highlighter",
+        "documentation": {}
+    },
+    {
+        "label": "LineDisplay",
+        "kind": 6,
+        "importPath": "src.toolong.line_panel",
+        "description": "src.toolong.line_panel",
+        "peekOfCode": "class LineDisplay(Widget):\n    DEFAULT_CSS = \"\"\"\n    LineDisplay {        \n        padding: 0 1;\n        margin: 1 0;\n        width: auto;\n        height: auto;        \n        Label {\n            width: 1fr;\n        }  ",
+        "detail": "src.toolong.line_panel",
+        "documentation": {}
+    },
+    {
+        "label": "LinePanel",
+        "kind": 6,
+        "importPath": "src.toolong.line_panel",
+        "description": "src.toolong.line_panel",
+        "peekOfCode": "class LinePanel(ScrollableContainer):\n    DEFAULT_CSS = \"\"\"\n    LinePanel {\n        background: $panel;        \n        overflow-y: auto;\n        overflow-x: auto;\n        border: blank transparent;                \n        scrollbar-gutter: stable;\n        &:focus {\n            border: heavy $accent;",
+        "detail": "src.toolong.line_panel",
+        "documentation": {}
+    },
+    {
+        "label": "LogError",
+        "kind": 6,
+        "importPath": "src.toolong.log_file",
+        "description": "src.toolong.log_file",
+        "peekOfCode": "class LogError(Exception):\n    \"\"\"An error related to logs.\"\"\"\n@rich.repr.auto(angular=True)\nclass LogFile:\n    \"\"\"A single log file.\"\"\"\n    def __init__(self, path: str) -> None:\n        self.path = Path(path)\n        self.name = self.path.name\n        self.file: IO[bytes] | None = None\n        self.size = 0",
+        "detail": "src.toolong.log_file",
+        "documentation": {}
+    },
+    {
+        "label": "LogFile",
+        "kind": 6,
+        "importPath": "src.toolong.log_file",
+        "description": "src.toolong.log_file",
+        "peekOfCode": "class LogFile:\n    \"\"\"A single log file.\"\"\"\n    def __init__(self, path: str) -> None:\n        self.path = Path(path)\n        self.name = self.path.name\n        self.file: IO[bytes] | None = None\n        self.size = 0\n        self.can_tail = False\n        self.timestamp_scanner = TimestampScanner()\n        self.format_parser = FormatParser()",
+        "detail": "src.toolong.log_file",
+        "documentation": {}
+    },
+    {
+        "label": "IS_WINDOWS",
+        "kind": 5,
+        "importPath": "src.toolong.log_file",
+        "description": "src.toolong.log_file",
+        "peekOfCode": "IS_WINDOWS = platform.system() == \"Windows\"\nclass LogError(Exception):\n    \"\"\"An error related to logs.\"\"\"\n@rich.repr.auto(angular=True)\nclass LogFile:\n    \"\"\"A single log file.\"\"\"\n    def __init__(self, path: str) -> None:\n        self.path = Path(path)\n        self.name = self.path.name\n        self.file: IO[bytes] | None = None",
+        "detail": "src.toolong.log_file",
+        "documentation": {}
+    },
+    {
+        "label": "LineRead",
+        "kind": 6,
+        "importPath": "src.toolong.log_lines",
+        "description": "src.toolong.log_lines",
+        "peekOfCode": "class LineRead(Message):\n    \"\"\"A line has been read from the file.\"\"\"\n    index: int\n    log_file: LogFile\n    start: int\n    end: int\n    line: str\nclass LineReader(Thread):\n    \"\"\"A thread which read lines from log files.\n    This allows lines to be loaded lazily, i.e. without blocking.",
+        "detail": "src.toolong.log_lines",
+        "documentation": {}
+    },
+    {
+        "label": "LineReader",
+        "kind": 6,
+        "importPath": "src.toolong.log_lines",
+        "description": "src.toolong.log_lines",
+        "peekOfCode": "class LineReader(Thread):\n    \"\"\"A thread which read lines from log files.\n    This allows lines to be loaded lazily, i.e. without blocking.\n    \"\"\"\n    def __init__(self, log_lines: LogLines) -> None:\n        self.log_lines = log_lines\n        self.queue: Queue[tuple[LogFile | None, int, int, int]] = Queue(maxsize=1000)\n        self.exit_event = Event()\n        self.pending: set[tuple[LogFile | None, int, int, int]] = set()\n        super().__init__()",
+        "detail": "src.toolong.log_lines",
+        "documentation": {}
+    },
+    {
+        "label": "SearchSuggester",
+        "kind": 6,
+        "importPath": "src.toolong.log_lines",
+        "description": "src.toolong.log_lines",
+        "peekOfCode": "class SearchSuggester(Suggester):\n    def __init__(self, search_index: Mapping[str, str]) -> None:\n        self.search_index = search_index\n        super().__init__(use_cache=False, case_sensitive=True)\n    async def get_suggestion(self, value: str) -> str | None:\n        word = re.split(SPLIT_REGEX, value)[-1]\n        start = value[: -len(word)]\n        if not word:\n            return None\n        search_hit = self.search_index.get(word.lower(), None)",
+        "detail": "src.toolong.log_lines",
+        "documentation": {}
+    },
+    {
+        "label": "LogLines",
+        "kind": 6,
+        "importPath": "src.toolong.log_lines",
+        "description": "src.toolong.log_lines",
+        "peekOfCode": "class LogLines(ScrollView, inherit_bindings=False):\n    BINDINGS = [\n        Binding(\"up,w,k\", \"scroll_up\", \"Scroll Up\", show=False),\n        Binding(\"down,s,j\", \"scroll_down\", \"Scroll Down\", show=False),\n        Binding(\"left,h\", \"scroll_left\", \"Scroll Left\", show=False),\n        Binding(\"right,l\", \"scroll_right\", \"Scroll Right\", show=False),\n        Binding(\"home,G\", \"scroll_home\", \"Scroll Home\", show=False),\n        Binding(\"end,g\", \"scroll_end\", \"Scroll End\", show=False),\n        Binding(\"pageup,b\", \"page_up\", \"Page Up\", show=False),\n        Binding(\"pagedown,space\", \"page_down\", \"Page Down\", show=False),",
+        "detail": "src.toolong.log_lines",
+        "documentation": {}
+    },
+    {
+        "label": "SPLIT_REGEX",
+        "kind": 5,
+        "importPath": "src.toolong.log_lines",
+        "description": "src.toolong.log_lines",
+        "peekOfCode": "SPLIT_REGEX = r\"[\\s/\\[\\]\\(\\)\\\"\\/]\"\nMAX_LINE_LENGTH = 1000\n@dataclass\nclass LineRead(Message):\n    \"\"\"A line has been read from the file.\"\"\"\n    index: int\n    log_file: LogFile\n    start: int\n    end: int\n    line: str",
+        "detail": "src.toolong.log_lines",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_LINE_LENGTH",
+        "kind": 5,
+        "importPath": "src.toolong.log_lines",
+        "description": "src.toolong.log_lines",
+        "peekOfCode": "MAX_LINE_LENGTH = 1000\n@dataclass\nclass LineRead(Message):\n    \"\"\"A line has been read from the file.\"\"\"\n    index: int\n    log_file: LogFile\n    start: int\n    end: int\n    line: str\nclass LineReader(Thread):",
+        "detail": "src.toolong.log_lines",
+        "documentation": {}
+    },
+    {
+        "label": "InfoOverlay",
+        "kind": 6,
+        "importPath": "src.toolong.log_view",
+        "description": "src.toolong.log_view",
+        "peekOfCode": "class InfoOverlay(Widget):\n    \"\"\"Displays text under the lines widget when there are new lines.\"\"\"\n    DEFAULT_CSS = \"\"\"\n    InfoOverlay {\n        display: none;\n        dock: bottom;        \n        layer: overlay;\n        width: 1fr;\n        visibility: hidden;        \n        offset-y: -1;",
+        "detail": "src.toolong.log_view",
+        "documentation": {}
+    },
+    {
+        "label": "FooterKey",
+        "kind": 6,
+        "importPath": "src.toolong.log_view",
+        "description": "src.toolong.log_view",
+        "peekOfCode": "class FooterKey(Label):\n    \"\"\"Displays a clickable label for a key.\"\"\"\n    DEFAULT_CSS = \"\"\"\n    FooterKey {\n        color: $success;\n        &:light {\n            color: $primary;\n        }\n        padding: 0 1 0 0;        \n        &:hover {",
+        "detail": "src.toolong.log_view",
+        "documentation": {}
+    },
+    {
+        "label": "MetaLabel",
+        "kind": 6,
+        "importPath": "src.toolong.log_view",
+        "description": "src.toolong.log_view",
+        "peekOfCode": "class MetaLabel(Label):\n    DEFAULT_CSS = \"\"\"\n    MetaLabel {\n        margin-left: 1;\n    }\n    MetaLabel:hover {\n        text-style: underline;\n    }\n    \"\"\"\n    def on_click(self) -> None:",
+        "detail": "src.toolong.log_view",
+        "documentation": {}
+    },
+    {
+        "label": "LogFooter",
+        "kind": 6,
+        "importPath": "src.toolong.log_view",
+        "description": "src.toolong.log_view",
+        "peekOfCode": "class LogFooter(Widget):\n    \"\"\"Shows a footer with information about the file and keys.\"\"\"\n    DEFAULT_CSS = \"\"\"\n    LogFooter {\n        layout: horizontal;\n        height: 1;\n        width: 1fr;\n        dock: bottom;\n        Horizontal {\n            width: 1fr;",
+        "detail": "src.toolong.log_view",
+        "documentation": {}
+    },
+    {
+        "label": "LogView",
+        "kind": 6,
+        "importPath": "src.toolong.log_view",
+        "description": "src.toolong.log_view",
+        "peekOfCode": "class LogView(Horizontal):\n    \"\"\"Widget that contains log lines and associated widgets.\"\"\"\n    DEFAULT_CSS = \"\"\"\n    LogView {\n        &.show-panel {\n            LinePanel {\n                display: block;\n            }\n        }\n        LogLines {",
+        "detail": "src.toolong.log_view",
+        "documentation": {}
+    },
+    {
+        "label": "SPLIT_REGEX",
+        "kind": 5,
+        "importPath": "src.toolong.log_view",
+        "description": "src.toolong.log_view",
+        "peekOfCode": "SPLIT_REGEX = r\"[\\s/\\[\\]]\"\nMAX_DETAIL_LINE_LENGTH = 100_000\nclass InfoOverlay(Widget):\n    \"\"\"Displays text under the lines widget when there are new lines.\"\"\"\n    DEFAULT_CSS = \"\"\"\n    InfoOverlay {\n        display: none;\n        dock: bottom;        \n        layer: overlay;\n        width: 1fr;",
+        "detail": "src.toolong.log_view",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_DETAIL_LINE_LENGTH",
+        "kind": 5,
+        "importPath": "src.toolong.log_view",
+        "description": "src.toolong.log_view",
+        "peekOfCode": "MAX_DETAIL_LINE_LENGTH = 100_000\nclass InfoOverlay(Widget):\n    \"\"\"Displays text under the lines widget when there are new lines.\"\"\"\n    DEFAULT_CSS = \"\"\"\n    InfoOverlay {\n        display: none;\n        dock: bottom;        \n        layer: overlay;\n        width: 1fr;\n        visibility: hidden;        ",
+        "detail": "src.toolong.log_view",
+        "documentation": {}
+    },
+    {
+        "label": "Goto",
+        "kind": 6,
+        "importPath": "src.toolong.messages",
+        "description": "src.toolong.messages",
+        "peekOfCode": "class Goto(Message):\n    pass\n@dataclass\nclass SizeChanged(Message, bubble=False):\n    \"\"\"File size has changed.\"\"\"\n    size: int\n    def can_replace(self, message: Message) -> bool:\n        return isinstance(message, SizeChanged)\n@dataclass\nclass FileError(Message, bubble=False):",
+        "detail": "src.toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SizeChanged",
+        "kind": 6,
+        "importPath": "src.toolong.messages",
+        "description": "src.toolong.messages",
+        "peekOfCode": "class SizeChanged(Message, bubble=False):\n    \"\"\"File size has changed.\"\"\"\n    size: int\n    def can_replace(self, message: Message) -> bool:\n        return isinstance(message, SizeChanged)\n@dataclass\nclass FileError(Message, bubble=False):\n    \"\"\"An error occurred watching a file.\"\"\"\n    error: Exception\n@dataclass",
+        "detail": "src.toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "FileError",
+        "kind": 6,
+        "importPath": "src.toolong.messages",
+        "description": "src.toolong.messages",
+        "peekOfCode": "class FileError(Message, bubble=False):\n    \"\"\"An error occurred watching a file.\"\"\"\n    error: Exception\n@dataclass\nclass PendingLines(Message):\n    \"\"\"Pending lines detected.\"\"\"\n    count: int\n    def can_replace(self, message: Message) -> bool:\n        return isinstance(message, PendingLines)\n@rich.repr.auto",
+        "detail": "src.toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "PendingLines",
+        "kind": 6,
+        "importPath": "src.toolong.messages",
+        "description": "src.toolong.messages",
+        "peekOfCode": "class PendingLines(Message):\n    \"\"\"Pending lines detected.\"\"\"\n    count: int\n    def can_replace(self, message: Message) -> bool:\n        return isinstance(message, PendingLines)\n@rich.repr.auto\n@dataclass\nclass NewBreaks(Message):\n    \"\"\"New line break to add.\"\"\"\n    log_file: LogFile",
+        "detail": "src.toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "NewBreaks",
+        "kind": 6,
+        "importPath": "src.toolong.messages",
+        "description": "src.toolong.messages",
+        "peekOfCode": "class NewBreaks(Message):\n    \"\"\"New line break to add.\"\"\"\n    log_file: LogFile\n    breaks: list[int]\n    scanned_size: int = 0\n    tail: bool = False\n    def __rich_repr__(self) -> rich.repr.Result:\n        yield \"scanned_size\", self.scanned_size\n        yield \"tail\", self.tail\nclass DismissOverlay(Message):",
+        "detail": "src.toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "DismissOverlay",
+        "kind": 6,
+        "importPath": "src.toolong.messages",
+        "description": "src.toolong.messages",
+        "peekOfCode": "class DismissOverlay(Message):\n    \"\"\"Request to dismiss overlay.\"\"\"\n@dataclass\nclass TailFile(Message):\n    \"\"\"Set file tailing.\"\"\"\n    tail: bool = True\n@dataclass\nclass ScanProgress(Message):\n    \"\"\"Update scan progress bar.\"\"\"\n    message: str",
+        "detail": "src.toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "TailFile",
+        "kind": 6,
+        "importPath": "src.toolong.messages",
+        "description": "src.toolong.messages",
+        "peekOfCode": "class TailFile(Message):\n    \"\"\"Set file tailing.\"\"\"\n    tail: bool = True\n@dataclass\nclass ScanProgress(Message):\n    \"\"\"Update scan progress bar.\"\"\"\n    message: str\n    complete: float\n    scan_start: int | None = None\n@dataclass",
+        "detail": "src.toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "ScanProgress",
+        "kind": 6,
+        "importPath": "src.toolong.messages",
+        "description": "src.toolong.messages",
+        "peekOfCode": "class ScanProgress(Message):\n    \"\"\"Update scan progress bar.\"\"\"\n    message: str\n    complete: float\n    scan_start: int | None = None\n@dataclass\nclass ScanComplete(Message):\n    \"\"\"Scan has completed.\"\"\"\n    size: int\n    scan_start: int",
+        "detail": "src.toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "ScanComplete",
+        "kind": 6,
+        "importPath": "src.toolong.messages",
+        "description": "src.toolong.messages",
+        "peekOfCode": "class ScanComplete(Message):\n    \"\"\"Scan has completed.\"\"\"\n    size: int\n    scan_start: int\n@dataclass\nclass PointerMoved(Message):\n    \"\"\"Pointer has moved.\"\"\"\n    pointer_line: int | None\n    def can_replace(self, message: Message) -> bool:\n        return isinstance(message, PointerMoved)",
+        "detail": "src.toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "PointerMoved",
+        "kind": 6,
+        "importPath": "src.toolong.messages",
+        "description": "src.toolong.messages",
+        "peekOfCode": "class PointerMoved(Message):\n    \"\"\"Pointer has moved.\"\"\"\n    pointer_line: int | None\n    def can_replace(self, message: Message) -> bool:\n        return isinstance(message, PointerMoved)",
+        "detail": "src.toolong.messages",
+        "documentation": {}
+    },
+    {
+        "label": "PollWatcher",
+        "kind": 6,
+        "importPath": "src.toolong.poll_watcher",
+        "description": "src.toolong.poll_watcher",
+        "peekOfCode": "class PollWatcher(WatcherBase):\n    \"\"\"A watcher that simply polls.\"\"\"\n    def run(self) -> None:\n        chunk_size = 64 * 1024\n        scan_chunk = self.scan_chunk\n        while not self._exit_event.is_set():\n            successful_read = False\n            for fileno, watched_file in self._file_descriptors.items():\n                try:\n                    position = lseek(fileno, 0, SEEK_CUR)",
+        "detail": "src.toolong.poll_watcher",
+        "documentation": {}
+    },
+    {
+        "label": "ScanProgressBar",
+        "kind": 6,
+        "importPath": "src.toolong.scan_progress_bar",
+        "description": "src.toolong.scan_progress_bar",
+        "peekOfCode": "class ScanProgressBar(Vertical):\n    SCOPED_CSS = False\n    DEFAULT_CSS = \"\"\"\n    ScanProgressBar {\n        width: 100%;\n        height: auto;\n        margin: 2 4;\n        dock: top;                    \n        padding: 1 2;\n        background: $primary;        ",
+        "detail": "src.toolong.scan_progress_bar",
+        "documentation": {}
+    },
+    {
+        "label": "SelectorWatcher",
+        "kind": 6,
+        "importPath": "src.toolong.selector_watcher",
+        "description": "src.toolong.selector_watcher",
+        "peekOfCode": "class SelectorWatcher(WatcherBase):\n    \"\"\"Watches files for changes.\"\"\"\n    def __init__(self) -> None:\n        self._selector = DefaultSelector()\n        super().__init__()\n    def close(self) -> None:\n        if not self._exit_event.is_set():\n            self._exit_event.set()\n    def add(\n        self,",
+        "detail": "src.toolong.selector_watcher",
+        "documentation": {}
+    },
+    {
+        "label": "TimestampFormat",
+        "kind": 6,
+        "importPath": "src.toolong.timestamps",
+        "description": "src.toolong.timestamps",
+        "peekOfCode": "class TimestampFormat(NamedTuple):\n    regex: str\n    parser: Callable[[str], datetime | None]\ndef parse_timestamp(format: str) -> Callable[[str], datetime | None]:\n    def parse(timestamp: str) -> datetime | None:\n        try:\n            return datetime.strptime(timestamp, format)\n        except ValueError:\n            return None\n    return parse",
+        "detail": "src.toolong.timestamps",
+        "documentation": {}
+    },
+    {
+        "label": "TimestampScanner",
+        "kind": 6,
+        "importPath": "src.toolong.timestamps",
+        "description": "src.toolong.timestamps",
+        "peekOfCode": "class TimestampScanner:\n    \"\"\"Scan a line for something that looks like a timestamp.\"\"\"\n    def __init__(self) -> None:\n        self._timestamp_formats = TIMESTAMP_FORMATS.copy()\n    def scan(self, line: str) -> datetime | None:\n        \"\"\"Scan a line.\n        Args:\n            line: A log line with a timestamp.\n        Returns:\n            A datetime or `None` if no timestamp was found.",
+        "detail": "src.toolong.timestamps",
+        "documentation": {}
+    },
+    {
+        "label": "parse_timestamp",
+        "kind": 2,
+        "importPath": "src.toolong.timestamps",
+        "description": "src.toolong.timestamps",
+        "peekOfCode": "def parse_timestamp(format: str) -> Callable[[str], datetime | None]:\n    def parse(timestamp: str) -> datetime | None:\n        try:\n            return datetime.strptime(timestamp, format)\n        except ValueError:\n            return None\n    return parse\n# Info taken from logmerger project https://github.com/ptmcg/logmerger/blob/main/logmerger/timestamp_wrapper.py\nTIMESTAMP_FORMATS = [\n    TimestampFormat(",
+        "detail": "src.toolong.timestamps",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "src.toolong.timestamps",
+        "description": "src.toolong.timestamps",
+        "peekOfCode": "def parse(line: str) -> tuple[TimestampFormat | None, datetime | None]:\n    \"\"\"Attempt to parse a timestamp.\"\"\"\n    for timestamp in TIMESTAMP_FORMATS:\n        regex, parse_callable = timestamp\n        match = re.search(regex, line)\n        if match is not None:\n            try:\n                return timestamp, parse_callable(match.string)\n            except ValueError:\n                continue",
+        "detail": "src.toolong.timestamps",
+        "documentation": {}
+    },
+    {
+        "label": "TIMESTAMP_FORMATS",
+        "kind": 5,
+        "importPath": "src.toolong.timestamps",
+        "description": "src.toolong.timestamps",
+        "peekOfCode": "TIMESTAMP_FORMATS = [\n    TimestampFormat(\n        r\"\\d{4}-\\d{2}-\\d{2} \\d{2}:\\d{2}:\\d{2},\\d{3}\\s?(?:Z|[+-]\\d{4})\",\n        datetime.fromisoformat,\n    ),\n    TimestampFormat(\n        r\"\\d{4}-\\d{2}-\\d{2} \\d{2}:\\d{2}:\\d{2},\\d{3}\",\n        datetime.fromisoformat,\n    ),\n    TimestampFormat(",
+        "detail": "src.toolong.timestamps",
+        "documentation": {}
+    },
+    {
+        "label": "LogScreen",
+        "kind": 6,
+        "importPath": "src.toolong.ui",
+        "description": "src.toolong.ui",
+        "peekOfCode": "class LogScreen(Screen):\n    BINDINGS = [\n        Binding(\"f1\", \"help\", \"Help\"),\n    ]\n    CSS = \"\"\"\n    LogScreen {\n        layers: overlay;\n        & TabPane {           \n            padding: 0;\n        }",
+        "detail": "src.toolong.ui",
+        "documentation": {}
+    },
+    {
+        "label": "CompareTokens",
+        "kind": 6,
+        "importPath": "src.toolong.ui",
+        "description": "src.toolong.ui",
+        "peekOfCode": "class CompareTokens:\n    \"\"\"Compare filenames.\"\"\"\n    def __init__(self, path: str) -> None:\n        self.tokens = [\n            int(token) if token.isdigit() else token.lower()\n            for token in path.split(\"/\")[-1].split(\".\")\n        ]\n    def __eq__(self, other: object) -> bool:\n        return self.tokens == other.tokens\n    def __lt__(self, other: CompareTokens) -> bool:",
+        "detail": "src.toolong.ui",
+        "documentation": {}
+    },
+    {
+        "label": "UI",
+        "kind": 6,
+        "importPath": "src.toolong.ui",
+        "description": "src.toolong.ui",
+        "peekOfCode": "class UI(App):\n    \"\"\"The top level App object.\"\"\"\n    @classmethod\n    def sort_paths(cls, paths: list[str]) -> list[str]:\n        return sorted(paths, key=CompareTokens)\n    def __init__(\n        self, file_paths: list[str], merge: bool = False, save_merge: str | None = None\n    ) -> None:\n        self.file_paths = self.sort_paths(file_paths)\n        self.merge = merge",
+        "detail": "src.toolong.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WatchedFile",
+        "kind": 6,
+        "importPath": "src.toolong.watcher",
+        "description": "src.toolong.watcher",
+        "peekOfCode": "class WatchedFile:\n    \"\"\"A currently watched file.\"\"\"\n    log_file: LogFile\n    callback: Callable[[int, list[int]], None]\n    error_callback: Callable[[Exception], None]\nclass WatcherBase(ABC):\n    \"\"\"Watches files for changes.\"\"\"\n    def __init__(self) -> None:\n        self._file_descriptors: dict[int, WatchedFile] = {}\n        self._thread: Thread | None = None",
+        "detail": "src.toolong.watcher",
+        "documentation": {}
+    },
+    {
+        "label": "WatcherBase",
+        "kind": 6,
+        "importPath": "src.toolong.watcher",
+        "description": "src.toolong.watcher",
+        "peekOfCode": "class WatcherBase(ABC):\n    \"\"\"Watches files for changes.\"\"\"\n    def __init__(self) -> None:\n        self._file_descriptors: dict[int, WatchedFile] = {}\n        self._thread: Thread | None = None\n        self._exit_event = Event()\n        super().__init__()\n    @classmethod\n    def scan_chunk(cls, chunk: bytes, position: int) -> list[int]:\n        \"\"\"Scan line breaks in a binary chunk,",
+        "detail": "src.toolong.watcher",
+        "documentation": {}
+    },
+    {
+        "label": "get_watcher",
+        "kind": 2,
+        "importPath": "src.toolong.watcher",
+        "description": "src.toolong.watcher",
+        "peekOfCode": "def get_watcher() -> WatcherBase:\n    \"\"\"Return an Watcher appropriate for the OS.\"\"\"\n    if platform.system() == \"Darwin\":\n        from toolong.selector_watcher import SelectorWatcher\n        return SelectorWatcher()\n    else:\n        from toolong.poll_watcher import PollWatcher\n        return PollWatcher()\nif TYPE_CHECKING:\n    from .log_file import LogFile",
+        "detail": "src.toolong.watcher",
+        "documentation": {}
+    }
+]
